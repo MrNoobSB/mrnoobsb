@@ -3,7 +3,7 @@
 **MrNoobSB/mrnoobsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on my roblox game
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning roblox code (lua i think)
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with basic coding
 - 💬 Ask me about idk?
