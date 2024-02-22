@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: find mrnoobsb on discord
 - 😄 Pronouns: walmart shopping cart
 - ⚡ Fun fact: i am addicted to a game called "Slap Battles".
--->
